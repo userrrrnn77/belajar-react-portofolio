@@ -1,0 +1,18 @@
+/* App.css */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://img.freepik.com/free-photo/high-angle-desktop-with-succulents-notebook_23-2148430843.jpg?w=360&t=st=1716734489~exp=1716735089~hmac=1313fd27cacc84eeb84357eb3fb21f46664866163a245cfca0bffb881f0d863a');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .btn {
+    margin-bottom: 0;
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .btn + .btn {
+    margin-left: 20px;
+  }
